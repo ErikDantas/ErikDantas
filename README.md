@@ -1,7 +1,18 @@
-### Hi there 👋
+<p align="center">Hi there, My name is Erik Dantas 👋</p>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/jose-erik-ramos-dantas-b0706b45/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+  </a>  
+  <a href="https://instagram.com/eriikramos" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">        
+  </a>  
+  <a href="mailto:jose.erikdantas@outlook.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;">        
+  </a> 
+</p>
 
-
-<img alt="Welcome" src="https://64.media.tumblr.com/af637b50d57bd7027f05481bcfa073a3/tumblr_mr17rniQgf1rcoly3o2_500.gifv" width="500" />
+<p align="center"><img alt="Welcome" src="https://64.media.tumblr.com/af637b50d57bd7027f05481bcfa073a3/tumblr_mr17rniQgf1rcoly3o2_500.gifv" width="500" /></p>
 
 
 
@@ -23,8 +34,5 @@
 
 
 
+<p align="right"><img src="https://badges.pufler.dev/visits/ErikDantas/ErikDantas" alt="Visitors"/></p>
 
-
-
-<!--![ErikDantas_stats](https://github-readme-stats.vercel.app/api?username=ErikDantas&show_icons=true)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikDantas&langs_count=8)](https://github.com/ErikDantas/github-readme-stats)
