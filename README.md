@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 
-<img alt="Welcome" src="https://gph.is/2BGbnr3" width="30" /:>
+
 
 <!--
 **ErikDantas/ErikDantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img alt="Welcome" src="https://gph.is/2BGbnr3" width="30" />
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
