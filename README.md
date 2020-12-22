@@ -7,11 +7,11 @@
   <a href="https://instagram.com/eriikramos" rel="nofollow">
     <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">        
   </a>  
-  <a href="mailto:jose.erikdantas@outlook.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;">        
-  </a> 
+ 
 </p>
-
+<p align="center">
+ How to contact me: jose.erikdantas@outlook.com
+</p>
 <p align="center"><img alt="Welcome" src="https://64.media.tumblr.com/af637b50d57bd7027f05481bcfa073a3/tumblr_mr17rniQgf1rcoly3o2_500.gifv" width="500" /></p>
 
 
