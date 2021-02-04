@@ -12,6 +12,9 @@
 <p align="center">
  How to contact me: jose.erikdantas@outlook.com
 </p>
+<p align="center">
+ (22) 988 429 619
+</p>
 <p align="center"><img alt="Welcome" src="https://64.media.tumblr.com/af637b50d57bd7027f05481bcfa073a3/tumblr_mr17rniQgf1rcoly3o2_500.gifv" width="500" /></p>
 
 
